@@ -21,3 +21,5 @@ res=1 # Перемножаем множители
 for i in set(mult_a).intersection(set(mult_a)):
     res*=i
 print(res) 
+
+print(a*b/res) #НОК
